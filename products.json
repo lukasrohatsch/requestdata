@@ -1,0 +1,49 @@
+{
+  "Arduino": [
+    {
+      "name": "Arduino UNO",
+      "detail": "A microcontroller board based on the ATmega328",
+      "price": "20.46",
+      "image": "https://cdn.pixabay.com/photo/2014/09/10/23/44/integrated-circuit-441289_960_720.jpg"
+    },
+    {
+      "name": "Arduino Nano",
+      "detail": "A small microcontroller board based on the ATmega328",
+      "price": "17.03",
+      "image": "https://cdn.pixabay.com/photo/2021/03/01/15/37/microcontroller-6060047_960_720.jpg"
+    },
+    {
+      "name": "Arduino Leonardo",
+      "detail": "A microcontroller board based on the ATmega32u4",
+      "price": "12.10",
+      "image": "https://cdn.pixabay.com/photo/2020/05/14/17/32/arduino-5170681_960_720.jpg"
+    }
+    ,
+    {
+      "name": "Arduino Mega",
+      "detail": "A microcontroller board based on the ATmega2560",
+      "price": "37.99",
+      "image": "https://cdn.pixabay.com/photo/2017/04/15/17/49/arduino-2233042_960_720.jpg"
+    }
+  ],
+  "Raspberry": [
+    {
+      "name": "Raspberry Pi 3 Model B+",
+      "detail": "A single-board computer from the UK with 1GB RAM",
+      "price": "35.28",
+      "image": "https://cdn.pixabay.com/photo/2020/07/17/13/40/raspberry-pi-5414142_960_720.jpg"
+    },
+    {
+      "name": "Raspberry Pi 2 Model B",
+      "detail": "A single-board computer from the UK with 1GB RAM",
+      "price": "29.79",
+      "image": "https://cdn.pixabay.com/photo/2020/07/17/13/40/raspberry-pi-5414142_960_720.jpg"
+    },
+    {
+      "name": "Raspberry Pi Zero",
+      "detail": "A small single-board computer from the UK with 512MB RAM",
+      "price": "12.00",
+      "image": "https://cdn.pixabay.com/photo/2016/10/06/14/51/raspberry-pi-1719217_960_720.jpg"
+    }
+  ]
+}
